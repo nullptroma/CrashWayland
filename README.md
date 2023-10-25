@@ -1,6 +1,6 @@
 # CrashWayland
 
-1) Open the project on Linux in Android Studio on Wayland.
+1) Open the project on Linux in Android Studio on KDE Plasma/Wayland.
 2) Wait for all dependencies to be loaded and the project to be synchronized.
 3) Open MainActivity, activity_main.xml files and wait for them to load
 4) Build the project (preferably run it via adb on a phone or emulator).
